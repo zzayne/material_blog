@@ -2,7 +2,7 @@
 This a simple project created by Material_UI
 
 
-#How to install
+# How to install
 
 1.run 'npm/yarn install' in the root directory；
 2.run 'npm/yarn run ' in the root directory,then the website will run at 'localhost:3000'
